@@ -13,7 +13,17 @@ namespace Valtozok
             //Inicializáció történhet a deklarációval együttesen
             int b = 20;
             int c = a + b;
-
+            
+            //Változó elnevezések
+            string camelCase = "camel";
+            string PascalCase = "Pascal";
+            string snake_case = "snake_case";
+            //kebab-case nem működik C#-ban
+            //a változó nem kezdődhet számmal, de rakhatsz számot bele: pl: a1
+            //a változó nem tartalmazhat szóközt, speciális karaktert, ékezetes se legyen
+            //a tiszta kód jegyében próbálj mindig beszédes nevet adni nekik, lehetőleg angol nevekkel, hogy bárki ránéz, tudja miről van szó
+            
+            //Változó típusok
             byte mybyte = 1;
             int myNum = 5;
             float myFloat = 6.02f;
