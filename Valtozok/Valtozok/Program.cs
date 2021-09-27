@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace Valtozok
 {
@@ -13,16 +13,16 @@ namespace Valtozok
             //Inicializáció történhet a deklarációval együttesen
             int b = 20;
             int c = a + b;
-            
+
             //Változó elnevezések
-            string camelCase = "camel";
-            string PascalCase = "Pascal";
+            string camelCase = "camelCase";
+            string PascalCase = "Pascal"; 
             string snake_case = "snake_case";
             //kebab-case nem működik C#-ban
             //a változó nem kezdődhet számmal, de rakhatsz számot bele: pl: a1
             //a változó nem tartalmazhat szóközt, speciális karaktert, ékezetes se legyen
             //a tiszta kód jegyében próbálj mindig beszédes nevet adni nekik, lehetőleg angol nevekkel, hogy bárki ránéz, tudja miről van szó
-            
+
             //Változó típusok
             byte mybyte = 1;
             int myNum = 5;
@@ -32,6 +32,7 @@ namespace Valtozok
             bool myBool = true;
             char myLetter = 'D';
             string myText = "Hello";
+            string text2 = "true";
 
             //Egyszerre több azonos típusú változót is létrehozhatsz inicializációval és anélkül is
             int x = 5, y = 6, z;
@@ -45,8 +46,8 @@ namespace Valtozok
             string charToString = Convert.ToString(myLetter);
             double intToDouble = Convert.ToDouble(myNum);
             byte intToByte = Convert.ToByte(myNum);
-            string boolToString = Convert.ToString(myBool);
-            Console.WriteLine(intToString + "; " + charToString + "; " + intToDouble + "; " + intToByte + "; " + boolToString);
+            bool StringToBool = Convert.ToBoolean(text2);
+            Console.WriteLine(intToString + "; " + charToString + "; " + intToDouble + "; " + intToByte + "; " + StringToBool);
 
             //Stringgé alakítás másképp
             string newString = "" + myNum;
