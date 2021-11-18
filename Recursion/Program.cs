@@ -4,24 +4,30 @@ namespace Recursion
 {
     class Program
     {
-        static int call;
-
+        // Rekurzív metódus, csak azért static, mert a futtatható osztályban van
         static long Faktorialis(int n)
         {
-            if (n <= 1) { return 1; }
-            call++;
+            if (n <= 1) {
+             return 1; 
+            }
+            //önmagát hívja meg a metódus, ettől rekurzív
             return n * Faktorialis(n - 1);
         }
 
         static void Main(string[] args)
         {
-            for (int i = 0; i < 21; i++)
+            //Iteratív megoldás for ciklussal, ez nem rekurzió
+            int faktorialis = 1;
+            for (int i = 1; i < 5; i++)
             {
-                call = 1;
-                var fakt = Faktorialis(i);
-                Console.WriteLine("{0}! = {1}, call: {2}", i, fakt, call);
+                faktorialis *= i;
             }
-            Console.ReadKey();
+            Console.WriteLine(faktorialis);
+
+
+            var fakt = Faktorialis(4);
+            Console.WriteLine(fakt);
+
         }
     }
 }
