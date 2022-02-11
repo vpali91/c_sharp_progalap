@@ -115,6 +115,7 @@ namespace Hangman
 
                 Console.WriteLine(@$"
                         Hangman
+                 {stages[lives]}
                 {kitalalando}
                 {lives}
                 ");
