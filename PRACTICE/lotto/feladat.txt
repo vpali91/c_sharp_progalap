@@ -1,0 +1,9 @@
+A sorsolas.txt a 2016 évi lottóhúzás nyerőszámait tartalmazza (hét,nyerőszám1,nyerőszám2,nyerőszám3,nyerőszám4,nyerőszám5). 
+A forrásfájl felhasználásával hajtsa végre az alábbi feladatokat:
+1. Olvassa be a txt fájlt és tárolja valamilyen listában, vagy egyéb megoldással(mentőöv: A 2-esért ki is kéne íratni a tárolt értékeket! )
+2. Kérjen be egy 1-52-ig terjedő számot és írja ki, az annak megfelelő hét nyerőszámait
+3. Adja meg, hogy melyik számot húzták ki a legtöbbször az évben?
+4. Adja meg hányszor húztak az évben páros számot!
+5. Adja meg, hogy hányszor húzták ki a 23-as számot!
+6. Adja meg, hogy hányszor húzták ki a 64-es számot!
+7. Írassa ki a számokat 1-90-ig, mellé írja oda, hogy melyik számot hányszor húzták ki!
