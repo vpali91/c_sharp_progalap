@@ -7,9 +7,10 @@ namespace Allatok
     class Kutya : Emlos
     {
 
-        public Kutya(int eletkor, int testsuly) : base(eletkor, testsuly)
+             public string gazda;
+        public Kutya(int eletkor, int testsuly, int szoros, string gazda) : base(eletkor, testsuly, szoros)
         {
-
+            this.gazda = gazda;
         }
 
         public string Ugat()
