@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Allatok
 {
-    public class Emlos
+    public class Emlos : Allat
     {
          public int szorosseg;
         public Emlos(int eletkor, int testsuly, int szoros) : base(eletkor, testsuly)
