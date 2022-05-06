@@ -6,29 +6,16 @@ namespace Allatok
 {
     public class Emlos
     {
-        public int eletkor;
-        public int testsuly;
-        public bool eletbenVanE=true;
-
-        public Emlos(int eletkor, int testsuly)
+         public int szorosseg;
+        public Emlos(int eletkor, int testsuly, int szoros) : base(eletkor, testsuly)
         {
-            this.eletkor = eletkor;
-            this.testsuly = testsuly;
+            this.szorosseg = szoros;
         }
 
-        public int Oregszik()
+        public void Vedlik()
         {
-            return eletkor++;
-        }
-
-        public int Eszik()
-        {
-            return testsuly++;
-        }
-
-        public bool kill()
-        {
-            return eletbenVanE = false;
+            if(szorosseg>0)
+            szorosseg--;
         }
     }
 }
