@@ -1,21 +1,9 @@
-1. Valtozok
-2. operators
-3. if_else_elseif
-4. switch
-5. input/intro
-6. arrays (9.- 34. sor a for/foreach kiíratások nélkül)
-7. lists (11. - 92. sor és 108. - 137. sor a for/foreach kiíratások nélkül)
-8. for_foreach_while
-9. arrays (9.- 34. sor)
-10. lists (11. - 92. sor és 108. - 137. sor)
-11. string_methods
-12. math
-13. random
-14. dictionary
-15. OOP/class
-16. OOP/getter_setter
-17. inheritance_intro
-18. File_Handling
-19. Prog_Tetelek
-20. Recursion
-21. Linked_List
+C# programozási alapismeretek kezdő szoftverfejlesztő-tesztelő szakos diákoknak magyar nyelvű magyarázatokkal OOP szintig.
+Fontos!!! Mivel a tananyag kezdőknek szól elsősorban, így bizonyos részeknél a tiszta kódolás elvei, 
+illetve más erőforrásbarát megoldások nem feltétlenül érvényesültek, ahol esetleg azok nehezítették volna a megértést.
+
+Felépítés:
+  1. documentation: ebben a mappában található a tananyag magyarázatokkal és működő példákkal kommentelve.
+  2. practice: Az órákon megoldott gyakorló feladatok itt találhatók feltöltve.
+  3. segedletek: Az órai feladatokhoz tartozó kezdőfájlok.
+  4. desktop: Asztali app-okkal kapcsolatos tananyagok
