@@ -1,9 +1,0 @@
-A hatos.txt a 2019 évi lottóhúzás nyerőszámait tartalmazza. A forrásfájl felhasználásával hajtsa végre az alábbi feladatokat:
-Kérjen be egy 1-52-ig terjedő számot és írja ki, az annak megfelelő hét nyerőszámait
-1. Olvassa be a txt fájlt és tárolja valamilyen listában, vagy egyéb megoldással
-2. Adja meg, hogy melyik számot húzták ki a legkevesebbszer az évben?
-3. Adja meg, hogy melyik számot húzták ki a legtöbbször az évben?
-4. Adja meg hányszor húztak az évben páratlan számot!
-5. Adja meg, hogy hányszor húzták ki az 1-es számot!
-6. Adja meg, hogy hányszor húzták ki a 3-as számot!
-7. Írassa ki a 45 számot, ahol ábrázolja, hogy melyik számot hányszor húzták ki!
