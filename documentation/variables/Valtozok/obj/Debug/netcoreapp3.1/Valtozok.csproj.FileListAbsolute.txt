@@ -1,0 +1,13 @@
+D:\Programming\C#\Progalap1\Progalap1\bin\Debug\netcoreapp3.1\Valtozok.exe
+D:\Programming\C#\Progalap1\Progalap1\bin\Debug\netcoreapp3.1\Valtozok.deps.json
+D:\Programming\C#\Progalap1\Progalap1\bin\Debug\netcoreapp3.1\Valtozok.runtimeconfig.json
+D:\Programming\C#\Progalap1\Progalap1\bin\Debug\netcoreapp3.1\Valtozok.runtimeconfig.dev.json
+D:\Programming\C#\Progalap1\Progalap1\bin\Debug\netcoreapp3.1\Valtozok.dll
+D:\Programming\C#\Progalap1\Progalap1\bin\Debug\netcoreapp3.1\Valtozok.pdb
+D:\Programming\C#\Progalap1\Progalap1\obj\Debug\netcoreapp3.1\Valtozok.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\Progalap1\Progalap1\obj\Debug\netcoreapp3.1\Valtozok.AssemblyInfoInputs.cache
+D:\Programming\C#\Progalap1\Progalap1\obj\Debug\netcoreapp3.1\Valtozok.AssemblyInfo.cs
+D:\Programming\C#\Progalap1\Progalap1\obj\Debug\netcoreapp3.1\Valtozok.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Progalap1\Progalap1\obj\Debug\netcoreapp3.1\Valtozok.dll
+D:\Programming\C#\Progalap1\Progalap1\obj\Debug\netcoreapp3.1\Valtozok.pdb
+D:\Programming\C#\Progalap1\Progalap1\obj\Debug\netcoreapp3.1\Valtozok.genruntimeconfig.cache
