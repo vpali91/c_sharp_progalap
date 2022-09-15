@@ -1,0 +1,8 @@
+Kérj be a felhasználótól egy számot 1 és 300 között.
+Ellenőrizd le, hogy számot adott-e meg és intervallumban van-e a szám.
+Ha nem szám és nincs tartományban, akkor kérd be ismételten, amíg nem adja meg jól.
+Írasd ki 1-től a megadott számig a számokat és ha
+	2-vel osztható a szám, írd ki a szám helyett: "Fizz"
+	3-al osztható, akkor "Buzz"
+	Ha mindkettővel: "FizzBuzz"
+	Ha egyik sem, akkor a számot írd ki.
