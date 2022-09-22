@@ -3,8 +3,8 @@ Készítsd el egy autókereskedés adminisztrációs programját.
 Készíts egy autó osztályt, aminek van 6 attributuma:
 Márka, Gyártás éve, Rendszám, Tulajdonos, Ár, Műszaki vizsga(bool).
 
-Készíts egy Management osztályt, aminek van egy Új Tulajdonos és egy Előleg attributuma, 
-továbbá egy Eladás metódusa, ami megváltoztatja a tulajdonos nevét az autónál és kiszámolja mennyit kell fizetni 
+Készíts egy Management osztályt, aminek van egy Új Tulajdonos egy Előleg, és egy Rendszám attributuma.
+továbbá egy Eladás metódusa, ami megkeresi az autót, megváltoztatja a tulajdonos nevét az autónál és kiszámolja mennyit kell fizetni 
 előleget levonva az autóért. Írassa ki az autó és az eladás adatait.
 Legyen egy Forgalmi metódusa, amivel az autónak érvényteleníteni, vagy megújítani lehet a műszakiját. 
 Írja ki, hogy "Megújítva", v "Érvénytelenítve".
@@ -12,8 +12,8 @@ Példányosíts 5 db autót ugyanebben az osztályban.
 
 A futtatható osztályban kérdezd meg a felhasználót mit szeretne csinálni?
 Ha autót akar értékesíteni, akkor adja meg az e betűt, ha műszakit akar újítani/érvényteleníteni m betű.
-Értékesítés esetén kérje be az új tulaj nevét és az előleget és példányosítsa a megfelelő konstruktort.
-Műszaki módosítás esetén 2 féle választ várjon, megújítás/érvénytelenítés,ezeket adja át a Forgalmi metódusnak.
+Értékesítés esetén kérje be az új tulaj nevét, az előleget és a rendszámot és példányosítsa a megfelelő konstruktort.
+Műszaki módosítás esetén kérje be a rendszámot és utána 2 féle választ várjon, megújítás/érvénytelenítés,ezeket adja át a Forgalmi metódusnak.
 
 A program kérdezze meg, hogy szeretne-e a felhasználó új adatot bevinni. 
 Igen esetén ismételten kérje be az induláskor megkérdezett dolgokat.
