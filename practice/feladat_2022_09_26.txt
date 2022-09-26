@@ -1,0 +1,15 @@
+Készíts egy console applikációt, ami bekér a felhasználótól 
+felhasználónevet, születési évet, várost, e-mail címet.
+
+A bekért adatokat tárold el egy dictionary-ben. 
+A dictionaryt add hozzá egy listához.
+
+A program kérdezze meg, hogy szeretne-e új adatot felvinni a felhasználó.
+Ha igen, akkor kérje be újra az adatokat és ezeket is adja hozzá 
+hasonlóképp a listához.
+
+Végezz egy kiíratást, ami kiír minden bekért adatot a dictionary listából.
+Nem ér egyben kiírni a dictionary-t, kulcsonként kellene.
+
+Ha nem válasz érkezik, akkor álljon le a program 
+(tehát ne kérjen be új adatot).
