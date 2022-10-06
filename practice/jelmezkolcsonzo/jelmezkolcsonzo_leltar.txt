@@ -1,0 +1,18 @@
+Készítsd el egy jelmezkölcsönző leltárprogramját.
+Használjon a program jelmez, ügyfél és kölcsönzés objektumokat.
+A kölcsönzés objektum tartalmazza a jelmez és ügyfél objektumokat.
+
+A program dolgozzon listákkal, amik tartalmazzanak néhány előre megírt
+objektumot. Ezek legyenek bővíthetők hozzáadás felülettel.
+A listában található objektumok legyenek módosíthatóak felületről.
+
+Új kölcsönzés rögzítését követően a program írassa ki a kölcsönzések
+adatait egy táblázatban, ahol legyenek kiírva a jelmez és vásárló adatok is
+az adott kölcsönzés sorában. Legyen egy olyan oszlop, ami jelzi hány nap
+van még hátra a kölcsönzésből. Ha lejárt a határidő írja ki, hogy késés és
+mellé napokban a késés mértékét.
+
+Legyen egy txt fájlbaírás funkció, amivel számlát tud kiadni a felhasználó.
+
+A feladat megoldásához ki kell találni legalább egy komolyabb kiegészítést a programhoz.
+A design-ra ügyelni kell, hogy szép igényes munka legyen.
