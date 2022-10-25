@@ -1,0 +1,12 @@
+Ügyviteli szoftver öröklődéssel.
+Készíts egy szoftvert, ami a cég alkalmazottjait tárolja futás közben listában és mentse az adatokat txt fájlban.
+A cég alkalmazottjai közt legyenek munkaviszonyban, 
+megbízási jogviszonyban, alvállalkozóként és vezetői munkakörben 
+foglalkoztatott munkatársak.
+A munkavállaló munkabért kap és 15% szja-t vonnak tőle 
+és 11% egyéb járulékot.
+A megbízásban megbízási díj van és ennek a 90%-ából 
+vonják a fenti járulékokat.
+A vállalkozó a teljes összeget megkapja.
+Vezető kizárólag munkaviszonyban lehet foglalkoztatva 
+és náluk 30% bérpótlék jár, továbbá van egy tulajdonság a vezetői szintről.
